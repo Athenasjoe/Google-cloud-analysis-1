@@ -24,3 +24,15 @@ left join `bigquery-public-data.chicago_crime.crime` go
 on bh.description=go.description
 group by bh.description
 
+
+
+SELECT  abcd.facility_name
+FROM `bigquery-public-data.covid19_vaccination_access.facility_boundary_us_all` abcd
+LEFT JOIN `bigquery-public-
+data.covid19_vaccination_access.facility_boundary_us_drive` wxyz ON abcd.facility_name  = w
+xyz.facility_name
+GROUP BY  abcd.facility_name
+Limit 5;
+	
+
+

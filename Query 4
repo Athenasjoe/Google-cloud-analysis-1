@@ -1,0 +1,3 @@
+SELECT  count(property_type) as apartment FROM `properati-data-public.properties_br.properties_rent_201502`
+where property_type = "apartment"
+

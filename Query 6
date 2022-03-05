@@ -1,0 +1,2 @@
+SELECT price FROM `properati-data-public.properties_br.properties_rent_201508` where price between 2000 and 3000
+

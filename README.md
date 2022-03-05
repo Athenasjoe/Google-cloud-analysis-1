@@ -26,6 +26,8 @@
 ![image](https://user-images.githubusercontent.com/100992322/156880269-bbd0ee09-886d-4ca7-be43-5d20cc025ae0.png)
 
 
+
+
 7. Presentation of crimes in a chart.
 
 ![image](https://user-images.githubusercontent.com/100992322/156880277-3e3dc601-c986-4548-a512-2c804075f02c.png)
@@ -35,5 +37,6 @@
 
 
 
-
+9. In 15 min radius which are the medical facilities available?
+![image](https://user-images.githubusercontent.com/100992322/156880942-18246bb7-24d8-417d-8dac-b68efdeb81ae.png)
 

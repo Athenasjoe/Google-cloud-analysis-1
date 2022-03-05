@@ -1,0 +1,1 @@
+SELECT primary_type,count (primary_type) as_no_of_crimes FROM `bigquery-public-data.austin_crime.crime` 

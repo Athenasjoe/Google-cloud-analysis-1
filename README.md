@@ -30,5 +30,10 @@
 
 ![image](https://user-images.githubusercontent.com/100992322/156880277-3e3dc601-c986-4548-a512-2c804075f02c.png)
 
+ 8. What is the common crimes in chicago and austin?
+ ![image](https://user-images.githubusercontent.com/100992322/156880648-a1936551-23e3-45f1-bd26-c75f504f34fc.png)
+
+
+
 
 

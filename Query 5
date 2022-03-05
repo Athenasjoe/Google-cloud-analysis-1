@@ -1,0 +1,2 @@
+SELECT  count(property_type) as apartment_rooms_leeser_than_3 FROM `properati-data-public.properties_br.properties_rent_201502`
+where property_type = "apartment" and  rooms < 3

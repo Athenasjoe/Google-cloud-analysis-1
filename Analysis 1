@@ -17,3 +17,10 @@ SELECT price FROM `properati-data-public.properties_br.properties_rent_201508` w
 
 
 SELECT primary_type,count (primary_type) as_no_of_crimes FROM `bigquery-public-data.austin_crime.crime` 
+
+SELECT bh.description
+FROM `bigquery-public-data.austin_crime.crime` bh
+left join `bigquery-public-data.chicago_crime.crime` go  
+on bh.description=go.description
+group by bh.description
+
